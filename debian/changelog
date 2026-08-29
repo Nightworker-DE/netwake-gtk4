@@ -1,0 +1,5 @@
+netwake-gtk4 (0.0.1) unstable; urgency=medium
+
+  * Automatisches Release via GuideOS DEB Suite.
+
+ -- Nightworker <nightworker@guideos.de>  Sat, 29 Aug 2026 09:17:04 +0200

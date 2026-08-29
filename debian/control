@@ -1,0 +1,12 @@
+Source: netwake-gtk4
+Section: utils
+Priority: optional
+Maintainer: Nightworker <nightworker@guideos.de>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+
+Package: netwake-gtk4
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-4.0, netcat-openbsd
+Description: WOL Manager für Linux
+ Paket wurde automatisch mit der GuideOS DEB Suite erstellt.

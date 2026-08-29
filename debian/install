@@ -1,0 +1,4 @@
+netwake-gtk4	usr/bin/
+icons/netwake-gtk4.svg	usr/share/icons/hicolor/scalable/apps
+netwake-gtk4.desktop	usr/share/applications/
+org.guideos.netwakegtk4.metainfo.xml	usr/share/metainfo/
