@@ -2,6 +2,6 @@
 Wol Manager für Linux
 
 <div style="display:flex; gap:10px;">
-  <img src="screenshot/netwake.gtk4-main.png" width="270" height="183">
+  <img src="screenshot/netwake.gtk4-main.png" width="400" height="400">
 </div>
 
