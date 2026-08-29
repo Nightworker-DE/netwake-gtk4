@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.guideos.netwakegtk4</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>netwake-gtk4</name>
+  <summary>WOL Manager für Linux</summary>
+  <description>
+    <p>
+      WOL Manager für Linux
+    </p>
+  </description>
+  <launchable type="desktop-id">netwake-gtk4.desktop</launchable>
+  <icon type="stock">netwake-gtk4</icon>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/Nightworker-DE/netwake-gtk4/blob/main/screenshot/netwake.gtk4-main.png?raw=true</image>
+    </screenshot>
+  </screenshots>
+</component>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=netwake-gtk4
+Name[de]=Netwake-GTK4
+Comment=WOL Manager für Linux
+Exec=netwake-gtk4
+Icon=netwake-gtk4
+Terminal=false
+StartupNotify=true
+Categories=Utility;Tools;Network;
+StartupWMClass=netwake-gtk4
